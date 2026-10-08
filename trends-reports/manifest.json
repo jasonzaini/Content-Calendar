@@ -1,0 +1,282 @@
+[
+  {
+    "brand": "Americana",
+    "month": "June",
+    "pdf": "americana-2026-06.pdf",
+    "sources": [
+      "C01",
+      "U02",
+      "R02",
+      "C03",
+      "G01",
+      "G12"
+    ],
+    "theme": "Small celebrations, with honest portions"
+  },
+  {
+    "brand": "California Garden",
+    "month": "June",
+    "pdf": "california-garden-2026-06.pdf",
+    "sources": [
+      "U02",
+      "C01",
+      "R02",
+      "B01",
+      "G01",
+      "G12"
+    ],
+    "theme": "Show the meal value, not just the can"
+  },
+  {
+    "brand": "ZOOM",
+    "month": "June",
+    "pdf": "zoom-2026-06.pdf",
+    "sources": [
+      "U03",
+      "U01",
+      "C03",
+      "R02",
+      "G01",
+      "G12"
+    ],
+    "theme": "Make the stop fit a real summer routine"
+  },
+  {
+    "brand": "AutoPro",
+    "month": "June",
+    "pdf": "autopro-2026-06.pdf",
+    "sources": [
+      "U04",
+      "U06",
+      "R01",
+      "B01",
+      "G12",
+      "G01"
+    ],
+    "theme": "Lead with roadworthiness and useful explanations"
+  },
+  {
+    "brand": "NXT",
+    "month": "June",
+    "pdf": "nxt-2026-06.pdf",
+    "sources": [
+      "U05",
+      "U06",
+      "R01",
+      "B01",
+      "G12",
+      "G01"
+    ],
+    "theme": "Confidence through condition and cost transparency"
+  },
+  {
+    "brand": "Americana",
+    "month": "July",
+    "pdf": "americana-2026-07.pdf",
+    "sources": [
+      "U01",
+      "C02",
+      "M01",
+      "R02",
+      "G11",
+      "G02"
+    ],
+    "theme": "Make adult sharing participatory"
+  },
+  {
+    "brand": "California Garden",
+    "month": "July",
+    "pdf": "california-garden-2026-07.pdf",
+    "sources": [
+      "C02",
+      "U01",
+      "M01",
+      "R02",
+      "G11",
+      "G12"
+    ],
+    "theme": "Make useful recipes a conversation"
+  },
+  {
+    "brand": "ZOOM",
+    "month": "July",
+    "pdf": "zoom-2026-07.pdf",
+    "sources": [
+      "U01",
+      "C02",
+      "M01",
+      "C03",
+      "G11",
+      "G02"
+    ],
+    "theme": "A useful stop in a city of dining choices"
+  },
+  {
+    "brand": "AutoPro",
+    "month": "July",
+    "pdf": "autopro-2026-07.pdf",
+    "sources": [
+      "U07",
+      "U04",
+      "R01",
+      "B01",
+      "G11",
+      "G12"
+    ],
+    "theme": "Make maintenance answer a real question"
+  },
+  {
+    "brand": "NXT",
+    "month": "July",
+    "pdf": "nxt-2026-07.pdf",
+    "sources": [
+      "U05",
+      "U07",
+      "R01",
+      "B01",
+      "G03",
+      "G11"
+    ],
+    "theme": "Reduce uncertainty before the enquiry"
+  },
+  {
+    "brand": "Americana",
+    "month": "August",
+    "pdf": "americana-2026-08.pdf",
+    "sources": [
+      "U09",
+      "U12",
+      "U10",
+      "R02",
+      "G04",
+      "G10"
+    ],
+    "theme": "Occasional enjoyment in a budget-aware month"
+  },
+  {
+    "brand": "California Garden",
+    "month": "August",
+    "pdf": "california-garden-2026-08.pdf",
+    "sources": [
+      "U09",
+      "U11",
+      "U10",
+      "M01",
+      "G07",
+      "G10"
+    ],
+    "theme": "Useful meals for time and budget pressure"
+  },
+  {
+    "brand": "ZOOM",
+    "month": "August",
+    "pdf": "zoom-2026-08.pdf",
+    "sources": [
+      "U12",
+      "U09",
+      "U10",
+      "U13",
+      "G10",
+      "G08"
+    ],
+    "theme": "Useful convenience, with a clear value proposition"
+  },
+  {
+    "brand": "AutoPro",
+    "month": "August",
+    "pdf": "autopro-2026-08.pdf",
+    "sources": [
+      "M02",
+      "U08",
+      "U13",
+      "R01",
+      "G04",
+      "G10"
+    ],
+    "theme": "Turn a real safety campaign into helpful content"
+  },
+  {
+    "brand": "NXT",
+    "month": "August",
+    "pdf": "nxt-2026-08.pdf",
+    "sources": [
+      "U08",
+      "U14",
+      "U13",
+      "R01",
+      "M05",
+      "G04"
+    ],
+    "theme": "Show the car against a real everyday need"
+  },
+  {
+    "brand": "Americana",
+    "month": "September",
+    "pdf": "americana-2026-09.pdf",
+    "sources": [
+      "U15",
+      "U16",
+      "R03",
+      "R02",
+      "G06",
+      "G05"
+    ],
+    "theme": "Occasional cake enjoyment with credible information"
+  },
+  {
+    "brand": "California Garden",
+    "month": "September",
+    "pdf": "california-garden-2026-09.pdf",
+    "sources": [
+      "U15",
+      "U16",
+      "U10",
+      "R03",
+      "G06",
+      "G07"
+    ],
+    "theme": "Make organised meal preparation useful and credible"
+  },
+  {
+    "brand": "ZOOM",
+    "month": "September",
+    "pdf": "zoom-2026-09.pdf",
+    "sources": [
+      "U17",
+      "U15",
+      "U10",
+      "R03",
+      "G10",
+      "G05"
+    ],
+    "theme": "Be useful in the coffee routine, not generic about it"
+  },
+  {
+    "brand": "AutoPro",
+    "month": "September",
+    "pdf": "autopro-2026-09.pdf",
+    "sources": [
+      "M02",
+      "M03",
+      "R05",
+      "R04",
+      "G09",
+      "G05"
+    ],
+    "theme": "Show the care in a real transformation"
+  },
+  {
+    "brand": "NXT",
+    "month": "September",
+    "pdf": "nxt-2026-09.pdf",
+    "sources": [
+      "M03",
+      "M04",
+      "R04",
+      "R01",
+      "G09",
+      "G05"
+    ],
+    "theme": "Proof and decision help in a flexible-mobility market"
+  }
+]

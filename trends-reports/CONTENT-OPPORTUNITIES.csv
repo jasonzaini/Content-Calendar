@@ -1,0 +1,61 @@
+brand,month,priority,idea,hook,format,cta,evidence,status
+Americana,2026-06,1,The small celebration edit,An ordinary evening. A little celebration.,Reel / Short,What little moment would you celebrate?,C01;U02;R02;C03;G01;G12,Proposed creative; client review required
+Americana,2026-06,2,"One cake, two serving looks",Same cake. Which serving style is yours?,Carousel + Story poll,Choose A or B.,C01;U02;R02;C03;G01;G12,Proposed creative; client review required
+Americana,2026-06,3,The gathering starts at the table,Ready for the next get-together?,Reel,Save this serving idea.,C01;U02;R02;C03;G01;G12,Proposed creative; client review required
+California Garden,2026-06,1,From can to gathering bowl,Start with this. Serve this.,Reel / Short,Save the recipe.,U02;C01;R02;B01;G01;G12,Proposed creative; client review required
+California Garden,2026-06,2,What is already in your pantry?,One pantry ingredient. Two meal directions.,Carousel,Which version should we cook next?,U02;C01;R02;B01;G01;G12,Proposed creative; client review required
+California Garden,2026-06,3,The useful portion guide,How many servings does this recipe make?,Carousel,Share with your cooking partner.,U02;C01;R02;B01;G01;G12,Proposed creative; client review required
+ZOOM,2026-06,1,Before the evening begins,One useful stop before the plans.,Reel,What is your go-to stop?,U03;U01;C03;R02;G01;G12,Proposed creative; client review required
+ZOOM,2026-06,2,"Coffee, in your routine",Before work or after the errands?,Story + Short,Vote for your coffee moment.,U03;U01;C03;R02;G01;G12,Proposed creative; client review required
+ZOOM,2026-06,3,The gathering checklist,What would you pick up on the way?,Carousel,Save the checklist.,U03;U01;C03;R02;G01;G12,Proposed creative; client review required
+AutoPro,2026-06,1,What the technician checks first,"Before the next drive, start here.",Reel / Short,Ask the team about a check.,U04;U06;R01;B01;G12;G01,Proposed creative; client review required
+AutoPro,2026-06,2,"A warning sign, explained",What does this sign actually mean?,Carousel,Save this explanation.,U04;U06;R01;B01;G12;G01,Proposed creative; client review required
+AutoPro,2026-06,3,Care without the fuel promise,Maintain it well. Understand it better.,Reel,What would you ask a technician?,U04;U06;R01;B01;G12;G01,Proposed creative; client review required
+NXT,2026-06,1,Five questions before a viewing,"Before you ask the price, ask this.",Carousel,Save for your next viewing.,U05;U06;R01;B01;G12;G01,Proposed creative; client review required
+NXT,2026-06,2,The detail-led walkaround,Look at the details that matter.,Reel,Enquire about this vehicle.,U05;U06;R01;B01;G12;G01,Proposed creative; client review required
+NXT,2026-06,3,Price is one part of ownership,What belongs in your car budget?,Carousel,Which cost would you like explained?,U05;U06;R01;B01;G12;G01,Proposed creative; client review required
+Americana,2026-07,1,Choose the serving,Which plate is coming to your table?,Short + Story poll,"Vote, then tell us why.",U01;C02;M01;R02;G11;G02,Proposed creative; client review required
+Americana,2026-07,2,The host’s last touch,One last touch before guests arrive.,Reel,Save for the next get-together.,U01;C02;M01;R02;G11;G02,Proposed creative; client review required
+Americana,2026-07,3,"You asked, we served",Your choice became this plate.,Reel reply,What should we try next?,U01;C02;M01;R02;G11;G02,Proposed creative; client review required
+California Garden,2026-07,1,"One can, your next recipe",Which dish should we make next?,Short + Story,Choose the next recipe.,C02;U01;M01;R02;G11;G12,Proposed creative; client review required
+California Garden,2026-07,2,The practical ingredient edit,Here is what goes into the dish.,Carousel,Save the ingredient list.,C02;U01;M01;R02;G11;G12,Proposed creative; client review required
+California Garden,2026-07,3,Cook the answer,You asked how to use this.,Reel,Ask your cooking question.,C02;U01;M01;R02;G11;G12,Proposed creative; client review required
+ZOOM,2026-07,1,The coffee moment poll,Which moment needs your coffee stop?,Short + Story poll,Choose your moment.,U01;C02;M01;C03;G11;G02,Proposed creative; client review required
+ZOOM,2026-07,2,"A stop, explained",Here is what this stop makes easy.,Reel,Find the featured store.,U01;C02;M01;C03;G11;G02,Proposed creative; client review required
+ZOOM,2026-07,3,The gathering pickup,On your way to the plans?,Carousel,What would you add?,U01;C02;M01;C03;G11;G02,Proposed creative; client review required
+AutoPro,2026-07,1,Ask the technician,What would you check before this journey?,Reel Q&A,Leave a question for the next episode.,U07;U04;R01;B01;G11;G12,Proposed creative; client review required
+AutoPro,2026-07,2,Myth or model-specific?,Is this advice true for every car?,Carousel,Save the reminder.,U07;U04;R01;B01;G11;G12,Proposed creative; client review required
+AutoPro,2026-07,3,What is included?,What happens during this service?,Reel,Ask about the service.,U07;U04;R01;B01;G11;G12,Proposed creative; client review required
+NXT,2026-07,1,What would you inspect next?,Which detail should we show you?,Short + Story poll,Choose the next detail.,U05;U07;R01;B01;G03;G11,Proposed creative; client review required
+NXT,2026-07,2,The complete listing edit,"Everything we can tell you, clearly.",Reel + listing card,Request the vehicle details.,U05;U07;R01;B01;G03;G11,Proposed creative; client review required
+NXT,2026-07,3,Is buying the right step?,What matters more: ownership or flexibility?,Carousel,Save before comparing options.,U05;U07;R01;B01;G03;G11,Proposed creative; client review required
+Americana,2026-08,1,"A small pause, beautifully served",Make a little pause feel special.,Reel,Who would you share this moment with?,U09;U12;U10;R02;G04;G10,Proposed creative; client review required
+Americana,2026-08,2,"A real portion, a clear pack",Here is what you are serving.,Carousel,Save the serving idea.,U09;U12;U10;R02;G04;G10,Proposed creative; client review required
+Americana,2026-08,3,"Ordinary table, lovely moment",A few shots. A little celebration.,Reel,What moment should we set up next?,U09;U12;U10;R02;G04;G10,Proposed creative; client review required
+California Garden,2026-08,1,The week starts in the pantry,One ingredient. Three meal directions.,Carousel,Save for your meal plan.,U09;U11;U10;M01;G07;G10,Proposed creative; client review required
+California Garden,2026-08,2,"Show the flavour, not just the speed",Convenient can still look like this.,Reel / Short,Which recipe should we make next?,U09;U11;U10;M01;G07;G10,Proposed creative; client review required
+California Garden,2026-08,3,The transparent recipe basket,Here is what this meal actually uses.,Carousel,Share with the meal planner at home.,U09;U11;U10;M01;G07;G10,Proposed creative; client review required
+ZOOM,2026-08,1,The useful stop on the way,"Before the errands, one useful stop.",Reel,Find the featured location.,U12;U09;U10;U13;G10;G08,Proposed creative; client review required
+ZOOM,2026-08,2,"Your routine, your coffee moment",Which moment is yours?,Story poll + Short,Choose your moment.,U12;U09;U10;U13;G10;G08,Proposed creative; client review required
+ZOOM,2026-08,3,Before the road trip,What do you check before setting off?,Carousel,Save the checklist.,U12;U09;U10;U13;G10;G08,Proposed creative; client review required
+AutoPro,2026-08,1,Inside the inspection,What did the August check involve?,Reel,Ask about current inspection options.,M02;U08;U13;R01;G04;G10,Proposed creative; client review required
+AutoPro,2026-08,2,Before the school run,A routine worth checking before the journey.,Carousel,Save the reminder.,M02;U08;U13;R01;G04;G10,Proposed creative; client review required
+AutoPro,2026-08,3,"One process, clearly filmed","Watch the check, then understand it.",Reel / Short,Leave a question for the technician.,M02;U08;U13;R01;G04;G10,Proposed creative; client review required
+NXT,2026-08,1,The everyday-use walkaround,Will this fit your actual day?,Reel,Ask for the vehicle details.,U08;U14;U13;R01;M05;G04,Proposed creative; client review required
+NXT,2026-08,2,What to ask about a used EV,"Before the badge, ask these questions.",Carousel,Save the checklist.,U08;U14;U13;R01;M05;G04,Proposed creative; client review required
+NXT,2026-08,3,"A real detail, a better question",Look here before the test drive.,Short,Book an enquiry through the approved channel.,U08;U14;U13;R01;M05;G04,Proposed creative; client review required
+Americana,2026-09,1,The adult celebration tray,"A little celebration, arranged with care.",Reel,Save for your next gathering.,U15;U16;R03;R02;G06;G05,Proposed creative; client review required
+Americana,2026-09,2,What is on the plate?,"The cake, the extras, the portion.",Carousel,Which serving would you choose?,U15;U16;R03;R02;G06;G05,Proposed creative; client review required
+Americana,2026-09,3,"A local occasion, properly considered",What makes this occasion meaningful?,Reel / Story,Share your occasion idea.,U15;U16;R03;R02;G06;G05,Proposed creative; client review required
+California Garden,2026-09,1,The organised lunch-prep edit,A little preparation. A clearer week.,Reel / Short,Save the recipe steps.,U15;U16;U10;R03;G06;G07,Proposed creative; client review required
+California Garden,2026-09,2,"One ingredient, three prepared meals",Which meal belongs in your plan?,Carousel + Story,Choose the next full recipe.,U15;U16;U10;R03;G06;G07,Proposed creative; client review required
+California Garden,2026-09,3,The recipe question desk,What would you like to cook with this?,Reel Q&A,Leave your cooking question.,U15;U16;U10;R03;G06;G07,Proposed creative; client review required
+ZOOM,2026-09,1,"Your coffee stop, explained",What matters in your coffee moment?,Reel,Tell us your coffee preference.,U17;U15;U10;R03;G10;G05,Proposed creative; client review required
+ZOOM,2026-09,2,"On the way, made useful",The stop that fits this journey.,Short,Find the featured store.,U17;U15;U10;R03;G10;G05,Proposed creative; client review required
+ZOOM,2026-09,3,"One question, one useful answer",You asked about this coffee.,Reel reply,What should we explain next?,U17;U15;U10;R03;G10;G05,Proposed creative; client review required
+AutoPro,2026-09,1,The honest clean transformation,"Watch the care, detail by detail.",Reel / Short,Ask about the featured service.,M02;M03;R05;R04;G09;G05,Proposed creative; client review required
+AutoPro,2026-09,2,What this service can—and cannot—do,Here is the actual scope.,Carousel,Save the explanation.,M02;M03;R05;R04;G09;G05,Proposed creative; client review required
+AutoPro,2026-09,3,The technician response,What would you like the team to explain?,Reel Q&A,Leave your question.,M02;M03;R05;R04;G09;G05,Proposed creative; client review required
+NXT,2026-09,1,"Prepared, not airbrushed",Here is how this vehicle is presented.,Reel,Request the inspection details.,M03;M04;R04;R01;G09;G05,Proposed creative; client review required
+NXT,2026-09,2,What retained value really means,An average is not your car’s future price.,Carousel,Save before comparing cars.,M03;M04;R04;R01;G09;G05,Proposed creative; client review required
+NXT,2026-09,3,The buyer question desk,What would help you decide?,Reel Q&A,Enquire through the approved channel.,M03;M04;R04;R01;G09;G05,Proposed creative; client review required
